@@ -15,7 +15,6 @@ st.set_page_config(page_title="Movie Recommendation System", page_icon=":clapper
 def first_tab():
     
     st.title('Cosine Similarity')
-    st.write('This is the first tab.')
     import pickle
     import pandas as pd
     import requests
@@ -124,7 +123,6 @@ def first_tab():
 # Set up the second tab
 def second_tab():
     st.title('TMDB')
-    st.write('This is the second tab.')
     import requests
 
 
