@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-This is an end-to-end project for developing a content based movie recommender system with frontend deployment using heroku.  
+This is an end-to-end project for developing a content based movie recommender system with frontend deployment using Streamlit.  
 
 
 ## Dataset
